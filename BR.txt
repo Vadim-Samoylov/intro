@@ -4,3 +4,9 @@ environment
 Steps_to_reproduse
 ER
 AR
+id
+environment
+title
+STR
+ER
+AR
