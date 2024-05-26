@@ -1,8 +1,8 @@
-#Hello everyone, I'm Vadim Samoylov
-QA Engineer
+# Hello everyone, I'm Vadim Samoylov
+## QA Engineer
 
 
 
 My Achievements:
 ---
-![Terminal certificate](<Vadim Samoylov_Terminal.png>)
+![Terminal certificate](<Vadim Samoylov_Terminal.jpg>)
