@@ -1,5 +1,6 @@
-# Hello everyone, I'm Vadim Samoylov
-## QA Engineer
+# Hello everyone, 
+I'm Vadim Samoylov 
+QA Engineer
 
 
 

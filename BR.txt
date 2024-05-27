@@ -1,12 +1,8 @@
-id
-title
-environment
-Steps_to_reproduse
-ER
-AR
-id
-environment
-title
-STR
-ER
-AR
+Id
+Title
+Description
+Environment
+Steps_to_reproduse (STR)
+ER (Expected result)
+AR (Actual result)
+
